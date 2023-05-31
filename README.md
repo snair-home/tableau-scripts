@@ -17,7 +17,7 @@ This script will:
 - tableauserverclient python sdk
 
 ## Usage
-3. Run the script from VSCode or from cli using `jupyter nbconvert --to script --execute tableau_extract_ds.ipynb`.
+Run the script from VSCode or from cli using `jupyter nbconvert --to script --execute tableau_extract_ds.ipynb`.
 
 ## Output
 
